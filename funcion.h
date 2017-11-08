@@ -1,0 +1,2 @@
+
+int esPalindromo(char *palabra);
